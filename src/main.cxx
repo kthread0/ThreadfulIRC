@@ -1,6 +1,6 @@
-#include "include/malloc.hxx"
+#include <iostream>
 
 int main(void) {
-    std::cout << "Hello World\n";
+    std::cout << "Hello, C++ World!";
     return 0;
 }

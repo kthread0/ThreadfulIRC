@@ -1,0 +1,8 @@
+---
+Checks: '-*'
+WarningsAsErrors: '*'
+HeaderFileExtensions:
+  - hxx
+ImplementationFileExtensions:
+  - cxx
+...
